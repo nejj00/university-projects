@@ -12,7 +12,7 @@ Built a Retrieval-Augmented Generation (RAG) system. Part 1 builds a search-and-
 
 Built a spam email filter in C++ designed to keep working even as new, never-before-seen words keep showing up, since you can't predict every word a spammer will use next. Solved this with two memory-efficient techniques for tracking a constantly growing vocabulary without needing unlimited memory, then benchmarked both to compare their accuracy and memory trade-offs.
 
-### [Basketball Analytics & High-Speed Math](https://github.com/nejj00/ku-leuven-bdap-assignment-2)
+### [Basketball Analytics & High-Speed Math (Apache Spark)](https://github.com/nejj00/ku-leuven-bdap-assignment-2)
 
 Two-part assignment on processing data at scale. First, used Apache Spark to analyze player-tracking data from real NBA games across a distributed computing cluster, calculating stats like distance run and clutch-time shooting efficiency. Second, sped up a statistical calculation by rewriting it to use a CPU's low-level parallel processing capabilities, cutting run time by up to 4x.
 
